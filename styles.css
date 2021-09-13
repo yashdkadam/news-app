@@ -73,25 +73,22 @@ span {
     overflow-y: hidden;
     overflow-y: hidden;
   }
+  p.title,.img,p.content,.btn,btn1,.fa,.fas,a.next,span{display: none;}
   p.title {
-    display: none;
     font-size: 4vh;
     margin: 0 0;
   }
   .img {
-    display: none;
     height: 30vh;
     width: 100vw;
   }
   p.content {
-    display: none;
     margin: 5px 0 28px 0;
     font-size: 2.6vh;
   }
 
   .btn,
   btn1 {
-    display: none;
     margin-top: 0px;
     margin-bottom: 127px;
     height: 67px;
@@ -103,13 +100,11 @@ span {
 
   .fa,
   .fas {
-    display: none;
     font-weight: 900;
     font-size: 40px;
     color: black;
   }
   a.next {
-    display: none;
     float: right;
     margin-top: 0px;
     margin-bottom: 127px;
@@ -122,7 +117,6 @@ span {
   }
 
   span {
-    display: none;
     margin-top: 12px;
     margin-left: 13px;
   }
