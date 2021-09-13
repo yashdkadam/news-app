@@ -60,6 +60,7 @@ span {
 }
 #dis {
   display: none;
+  height: 100vh;
 }
 
 @media screen and (min-width: 600px) {
@@ -122,6 +123,7 @@ span {
   }
 
   #dis {
+    height: 100vh;
     padding-top: 270px;
     display: flex;
     align-items: center;
