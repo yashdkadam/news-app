@@ -74,7 +74,17 @@ span {
     overflow-y: hidden;
     overflow-y: hidden;
   }
-  p.title,.img,p.content,.btn,btn1,.fa,.fas,a.next,span{display: none;}
+  p.title,
+  .img,
+  p.content,
+  .btn,
+  btn1,
+  .fa,
+  .fas,
+  a.next,
+  span {
+    display: none;
+  }
   p.title {
     font-size: 4vh;
     margin: 0 0;
@@ -129,4 +139,4 @@ span {
     justify-content: center;
   }
 }
-
+/*hi*/
